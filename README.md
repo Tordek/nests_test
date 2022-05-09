@@ -1,4 +1,4 @@
-== Installation
+## Installation
 
 ```
 cd producer
@@ -9,7 +9,7 @@ npm i
 npm run start:dev
 ```
 
-== Error
+## Error
 
 Running `curl "localhost:3000/working?aNumber=1"` correctly prints `Hello World!%` and the NestJS log shows `{ aNumber: 1 }`
 
